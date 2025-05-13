@@ -43,7 +43,7 @@ cd covid19-tracker
 # Install required packages
 pip install -r requirements.txt
 
-#  Key Insights
+###  Key Insights
 Vaccination Disparities: Developed nations achieved 50% vaccination coverage 3-5 months faster than developing countries
 
 Case Fatality Rates: Varied significantly between countries (0.5%-3.5%) suggesting healthcare system impacts
